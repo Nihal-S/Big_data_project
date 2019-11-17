@@ -45,10 +45,21 @@ if __name__=="__main__":
         for i in schemas:
             dict_sch[i.split(" ")[0]] = i.split(" ")[1],i.split(" ")[2]
         for i in dict_sch: 
-            if((inp[3].split("/")[0] == i) and (inp[3].split("/")[1] == i[2])):
+            if((inp[3].split("/")[0] == i) and (inp[3].split("/")[1] == dict_sch[i][2])):
+                res = os.popen("python3 mapper.py<data/"+dict_sch[i][2]+" "+inp[1]+" "+i)
+                output = res.read()
+                f = open('output_map.txt', 'w')
+                f.write(output)
+                f.close()
 
-        else:
-            print("[ERROR]:- Database not found")
+                res = os.open('python3 reducer.py '+ inp[-1][:-1])
+                output = res.read()
+                f = open("output_red.txt","w")
+                f.write(output)
+                f.close()
+
+            else:
+                print("[ERROR]:- Database not found")
 
 
 #except:
