@@ -1,0 +1,406 @@
+Chevrolet Chevelle Malibu,18.0,130.0,3504.	130.0
+Buick Skylark 320,15.0,165.0,3693.	165.0
+Plymouth Satellite,18.0,150.0,3436.	150.0
+AMC Rebel SST,16.0,150.0,3433.	150.0
+Ford Torino,17.0,140.0,3449.	140.0
+Ford Galaxie 500,15.0,198.0,4341.	198.0
+Chevrolet Impala,14.0,220.0,4354.	220.0
+Plymouth Fury iii,14.0,215.0,4312.	215.0
+Pontiac Catalina,14.0,225.0,4425.	225.0
+AMC Ambassador DPL,15.0,190.0,3850.	190.0
+Citroen DS-21 Pallas,0,115.0,3090.	115.0
+Chevrolet Chevelle Concours (sw),0,165.0,4142.	165.0
+Ford Torino (sw),0,153.0,4034.	153.0
+Plymouth Satellite (sw),0,175.0,4166.	175.0
+AMC Rebel SST (sw),0,175.0,3850.	175.0
+Dodge Challenger SE,15.0,170.0,3563.	170.0
+Plymouth 'Cuda 340,14.0,160.0,3609.	160.0
+Ford Mustang Boss 302,0,140.0,3353.	140.0
+Chevrolet Monte Carlo,15.0,150.0,3761.	150.0
+Buick Estate Wagon (sw),14.0,225.0,3086.	225.0
+Toyota Corolla Mark ii,24.0,95.00,2372.	95.00
+Plymouth Duster,22.0,95.00,2833.	95.00
+AMC Hornet,18.0,97.00,2774.	97.00
+Ford Maverick,21.0,85.00,2587.	85.00
+Datsun PL510,27.0,88.00,2130.	88.00
+Volkswagen 1131 Deluxe Sedan,26.0,46.00,1835.	46.00
+Peugeot 504,25.0,87.00,2672.	87.00
+Audi 100 LS,24.0,90.00,2430.	90.00
+Saab 99e,25.0,95.00,2375.	95.00
+BMW 2002,26.0,113.0,2234.	113.0
+AMC Gremlin,21.0,90.00,2648.	90.00
+Ford F250,10.0,215.0,4615.	215.0
+Chevy C20,10.0,200.0,4376.	200.0
+Dodge D200,11.0,210.0,4382.	210.0
+Hi 1200D,9.0,193.0,4732.	193.0
+Datsun PL510,27.0,88.00,2130.	88.00
+Chevrolet Vega 2300,28.0,90.00,2264.	90.00
+Toyota Corolla,25.0,95.00,2228.	95.00
+Ford Pinto,25.0,0,2046.	0
+Volkswagen Super Beetle 117,0,48.00,1978.	48.00
+AMC Gremlin,19.0,100.0,2634.	100.0
+Plymouth Satellite Custom,16.0,105.0,3439.	105.0
+Chevrolet Chevelle Malibu,17.0,100.0,3329.	100.0
+Ford Torino 500,19.0,88.00,3302.	88.00
+AMC Matador,18.0,100.0,3288.	100.0
+Chevrolet Impala,14.0,165.0,4209.	165.0
+Pontiac Catalina Brougham,14.0,175.0,4464.	175.0
+Ford Galaxie 500,14.0,153.0,4154.	153.0
+Plymouth Fury iii,14.0,150.0,4096.	150.0
+Dodge Monaco (sw),12.0,180.0,4955.	180.0
+Ford Country Squire (sw),13.0,170.0,4746.	170.0
+Pontiac Safari (sw),13.0,175.0,5140.	175.0
+AMC Hornet Sportabout (sw),18.0,110.0,2962.	110.0
+Chevrolet Vega (sw),22.0,72.00,2408.	72.00
+Pontiac Firebird,19.0,100.0,3282.	100.0
+Ford Mustang,18.0,88.00,3139.	88.00
+Mercury Capri 2000,23.0,86.00,2220.	86.00
+Opel 1900,28.0,90.00,2123.	90.00
+Peugeot 304,30.0,70.00,2074.	70.00
+Fiat 124B,30.0,76.00,2065.	76.00
+Toyota Corolla 1200,31.0,65.00,1773.	65.00
+Datsun 1200,35.0,69.00,1613.	69.00
+Volkswagen Model 111,27.0,60.00,1834.	60.00
+Plymouth Cricket,26.0,70.00,1955.	70.00
+Toyota Corolla Hardtop,24.0,95.00,2278.	95.00
+Dodge Colt Hardtop,25.0,80.00,2126.	80.00
+Volkswagen Type 3,23.0,54.00,2254.	54.00
+Chevrolet Vega,20.0,90.00,2408.	90.00
+Ford Pinto Runabout,21.0,86.00,2226.	86.00
+Chevrolet Impala,13.0,165.0,4274.	165.0
+Pontiac Catalina,14.0,175.0,4385.	175.0
+Plymouth Fury III,15.0,150.0,4135.	150.0
+Ford Galaxie 500,14.0,153.0,4129.	153.0
+AMC Ambassador SST,17.0,150.0,3672.	150.0
+Mercury Marquis,11.0,208.0,4633.	208.0
+Buick LeSabre Custom,13.0,155.0,4502.	155.0
+Oldsmobile Delta 88 Royale,12.0,160.0,4456.	160.0
+Chrysler Newport Royal,13.0,190.0,4422.	190.0
+Mazda RX2 Coupe,19.0,97.00,2330.	97.00
+AMC Matador (sw),15.0,150.0,3892.	150.0
+Chevrolet Chevelle Concours (sw),13.0,130.0,4098.	130.0
+Ford Gran Torino (sw),13.0,140.0,4294.	140.0
+Plymouth Satellite Custom (sw),14.0,150.0,4077.	150.0
+Volvo 145e (sw),18.0,112.0,2933.	112.0
+Volkswagen 411 (sw),22.0,76.00,2511.	76.00
+Peugeot 504 (sw),21.0,87.00,2979.	87.00
+Renault 12 (sw),26.0,69.00,2189.	69.00
+Ford Pinto (sw),22.0,86.00,2395.	86.00
+Datsun 510 (sw),28.0,92.00,2288.	92.00
+Toyota Corolla Mark II (sw),23.0,97.00,2506.	97.00
+Dodge Colt (sw),28.0,80.00,2164.	80.00
+Toyota Corolla 1600 (sw),27.0,88.00,2100.	88.00
+Buick Century 350,13.0,175.0,4100.	175.0
+AMC Matador,14.0,150.0,3672.	150.0
+Chevrolet Malibu,13.0,145.0,3988.	145.0
+Ford Gran Torino,14.0,137.0,4042.	137.0
+Dodge Coronet Custom,15.0,150.0,3777.	150.0
+Mercury Marquis Brougham,12.0,198.0,4952.	198.0
+Chevrolet Caprice Classic,13.0,150.0,4464.	150.0
+Ford LTD,13.0,158.0,4363.	158.0
+Plymouth Fury Gran Sedan,14.0,150.0,4237.	150.0
+Chrysler New Yorker Brougham,13.0,215.0,4735.	215.0
+Buick Electra 225 Custom,12.0,225.0,4951.	225.0
+AMC Ambassador Brougham,13.0,175.0,3821.	175.0
+Plymouth Valiant,18.0,105.0,3121.	105.0
+Chevrolet Nova Custom,16.0,100.0,3278.	100.0
+AMC Hornet,18.0,100.0,2945.	100.0
+Ford Maverick,18.0,88.00,3021.	88.00
+Plymouth Duster,23.0,95.00,2904.	95.00
+Volkswagen Super Beetle,26.0,46.00,1950.	46.00
+Chevrolet Impala,11.0,150.0,4997.	150.0
+Ford Country,12.0,167.0,4906.	167.0
+Plymouth Custom Suburb,13.0,170.0,4654.	170.0
+Oldsmobile Vista Cruiser,12.0,180.0,4499.	180.0
+AMC Gremlin,18.0,100.0,2789.	100.0
+Toyota Camry,20.0,88.00,2279.	88.00
+Chevrolet Vega,21.0,72.00,2401.	72.00
+Datsun 610,22.0,94.00,2379.	94.00
+Mazda RX3,18.0,90.00,2124.	90.00
+Ford Pinto,19.0,85.00,2310.	85.00
+Mercury Capri v6,21.0,107.0,2472.	107.0
+Fiat 124 Sport Coupe,26.0,90.00,2265.	90.00
+Chevrolet Monte Carlo S,15.0,145.0,4082.	145.0
+Pontiac Grand Prix,16.0,230.0,4278.	230.0
+Fiat 128,29.0,49.00,1867.	49.00
+Opel Manta,24.0,75.00,2158.	75.00
+Audi 100LS,20.0,91.00,2582.	91.00
+Volvo 144ea,19.0,112.0,2868.	112.0
+Dodge Dart Custom,15.0,150.0,3399.	150.0
+Saab 99le,24.0,110.0,2660.	110.0
+Toyota Mark II,20.0,122.0,2807.	122.0
+Oldsmobile Omega,11.0,180.0,3664.	180.0
+Plymouth Duster,20.0,95.00,3102.	95.00
+Ford Maverick,21.0,0,2875.	0
+AMC Hornet,19.0,100.0,2901.	100.0
+Chevrolet Nova,15.0,100.0,3336.	100.0
+Datsun B210,31.0,67.00,1950.	67.00
+Ford Pinto,26.0,80.00,2451.	80.00
+Toyota Corolla 1200,32.0,65.00,1836.	65.00
+Chevrolet Vega,25.0,75.00,2542.	75.00
+Chevrolet Chevelle Malibu Classic,16.0,100.0,3781.	100.0
+AMC Matador,16.0,110.0,3632.	110.0
+Plymouth Satellite Sebring,18.0,105.0,3613.	105.0
+Ford Gran Torino,16.0,140.0,4141.	140.0
+Buick Century Luxus (sw),13.0,150.0,4699.	150.0
+Dodge Coronet Custom (sw),14.0,150.0,4457.	150.0
+Ford Gran Torino (sw),14.0,140.0,4638.	140.0
+AMC Matador (sw),14.0,150.0,4257.	150.0
+Audi Fox,29.0,83.00,2219.	83.00
+Volkswagen Dasher,26.0,67.00,1963.	67.00
+Opel Manta,26.0,78.00,2300.	78.00
+Toyota Corolla,31.0,52.00,1649.	52.00
+Datsun 710,32.0,61.00,2003.	61.00
+Dodge Colt,28.0,75.00,2125.	75.00
+Fiat 128,24.0,75.00,2108.	75.00
+Fiat 124 TC,26.0,75.00,2246.	75.00
+Honda Civic,24.0,97.00,2489.	97.00
+Subaru,26.0,93.00,2391.	93.00
+Fiat x1.9,31.0,67.00,2000.	67.00
+Plymouth Valiant Custom,19.0,95.00,3264.	95.00
+Chevrolet Nova,18.0,105.0,3459.	105.0
+Mercury Monarch,15.0,72.00,3432.	72.00
+Ford Maverick,15.0,72.00,3158.	72.00
+Pontiac Catalina,16.0,170.0,4668.	170.0
+Chevrolet Bel Air,15.0,145.0,4440.	145.0
+Plymouth Grand Fury,16.0,150.0,4498.	150.0
+Ford LTD,14.0,148.0,4657.	148.0
+Buick Century,17.0,110.0,3907.	110.0
+Chevrolete Chevelle Malibu,16.0,105.0,3897.	105.0
+AMC Matador,15.0,110.0,3730.	110.0
+Plymouth Fury,18.0,95.00,3785.	95.00
+Buick Skyhawk,21.0,110.0,3039.	110.0
+Chevrolet Monza 2+2,20.0,110.0,3221.	110.0
+Ford Mustang II,13.0,129.0,3169.	129.0
+Toyota Corolla,29.0,75.00,2171.	75.00
+Ford Pinto,23.0,83.00,2639.	83.00
+AMC Gremlin,20.0,100.0,2914.	100.0
+Pontiac Astro,23.0,78.00,2592.	78.00
+Toyota Corolla,24.0,96.00,2702.	96.00
+Volkswagen Dasher,25.0,71.00,2223.	71.00
+Datsun 710,24.0,97.00,2545.	97.00
+Ford Pinto,18.0,97.00,2984.	97.00
+Volkswagen Rabbit,29.0,70.00,1937.	70.00
+AMC Pacer,19.0,90.00,3211.	90.00
+Audi 100LS,23.0,95.00,2694.	95.00
+Peugeot 504,23.0,88.00,2957.	88.00
+Volvo 244DL,22.0,98.00,2945.	98.00
+Saab 99LE,25.0,115.0,2671.	115.0
+Honda Civic CVCC,33.0,53.00,1795.	53.00
+Fiat 131,28.0,86.00,2464.	86.00
+Opel 1900,25.0,81.00,2220.	81.00
+Capri ii,25.0,92.00,2572.	92.00
+Dodge Colt,26.0,79.00,2255.	79.00
+Renault 12tl,27.0,83.00,2202.	83.00
+Chevrolet Chevelle Malibu Classic,17.5,140.0,4215.	140.0
+Dodge Coronet Brougham,16.0,150.0,4190.	150.0
+AMC Matador,15.5,120.0,3962.	120.0
+Ford Gran Torino,14.5,152.0,4215.	152.0
+Plymouth Valiant,22.0,100.0,3233.	100.0
+Chevrolet Nova,22.0,105.0,3353.	105.0
+Ford Maverick,24.0,81.00,3012.	81.00
+AMC Hornet,22.5,90.00,3085.	90.00
+Chevrolet Chevette,29.0,52.00,2035.	52.00
+Chevrolet Woody,24.5,60.00,2164.	60.00
+Volkswagen Rabbit,29.0,70.00,1937.	70.00
+Honda Civic,33.0,53.00,1795.	53.00
+Dodge Aspen SE,20.0,100.0,3651.	100.0
+Ford Grenada ghia,18.0,78.00,3574.	78.00
+Pontiac Ventura SJ,18.5,110.0,3645.	110.0
+AMC Pacer d/l,17.5,95.00,3193.	95.00
+Volkswagen Rabbit,29.5,71.00,1825.	71.00
+Datsun B-210,32.0,70.00,1990.	70.00
+Toyota Corolla,28.0,75.00,2155.	75.00
+Ford Pinto,26.5,72.00,2565.	72.00
+Volvo 245,20.0,102.0,3150.	102.0
+Plymouth Volare Premier v8,13.0,150.0,3940.	150.0
+Peugeot 504,19.0,88.00,3270.	88.00
+Toyota Mark II,19.0,108.0,2930.	108.0
+Mercedes-Benz 280s,16.5,120.0,3820.	120.0
+Cadillac Seville,16.5,180.0,4380.	180.0
+Chevrolet C10,13.0,145.0,4055.	145.0
+Ford F108,13.0,130.0,3870.	130.0
+Dodge D100,13.0,150.0,3755.	150.0
+Honda Accord CVCC,31.5,68.00,2045.	68.00
+Buick Opel Isuzu Deluxe,30.0,80.00,2155.	80.00
+Renault 5 GTL,36.0,58.00,1825.	58.00
+Plymouth Arrow GS,25.5,96.00,2300.	96.00
+Datsun F-10 Hatchback,33.5,70.00,1945.	70.00
+Chevrolet Caprice Classic,17.5,145.0,3880.	145.0
+Oldsmobile Cutlass Supreme,17.0,110.0,4060.	110.0
+Dodge Monaco Brougham,15.5,145.0,4140.	145.0
+Mercury Cougar Brougham,15.0,130.0,4295.	130.0
+Chevrolet Concours,17.5,110.0,3520.	110.0
+Buick Skylark,20.5,105.0,3425.	105.0
+Plymouth Volare Custom,19.0,100.0,3630.	100.0
+Ford Grenada,18.5,98.00,3525.	98.00
+Pontiac Grand Prix LJ,16.0,180.0,4220.	180.0
+Chevrolet Monte Carlo Landau,15.5,170.0,4165.	170.0
+Chrysler Cordoba,15.5,190.0,4325.	190.0
+Ford Thunderbird,16.0,149.0,4335.	149.0
+Volkswagen Rabbit Custom,29.0,78.00,1940.	78.00
+Pontiac Sunbird Coupe,24.5,88.00,2740.	88.00
+Toyota Corolla Liftback,26.0,75.00,2265.	75.00
+Ford Mustang II 2+2,25.5,89.00,2755.	89.00
+Chevrolet Chevette,30.5,63.00,2051.	63.00
+Dodge Colt m/m,33.5,83.00,2075.	83.00
+Subaru DL,30.0,67.00,1985.	67.00
+Volkswagen Dasher,30.5,78.00,2190.	78.00
+Datsun 810,22.0,97.00,2815.	97.00
+BMW 320i,21.5,110.0,2600.	110.0
+Mazda RX-4,21.5,110.0,2720.	110.0
+Volkswagen Rabbit Custom Diesel,43.1,48.00,1985.	48.00
+Ford Fiesta,36.1,66.00,1800.	66.00
+Mazda GLC Deluxe,32.8,52.00,1985.	52.00
+Datsun B210 GX,39.4,70.00,2070.	70.00
+Honda Civic CVCC,36.1,60.00,1800.	60.00
+Oldsmobile Cutlass Salon Brougham,19.9,110.0,3365.	110.0
+Dodge Diplomat,19.4,140.0,3735.	140.0
+Mercury Monarch ghia,20.2,139.0,3570.	139.0
+Pontiac Phoenix LJ,19.2,105.0,3535.	105.0
+Chevrolet Malibu,20.5,95.00,3155.	95.00
+Ford Fairmont (auto),20.2,85.00,2965.	85.00
+Ford Fairmont (man),25.1,88.00,2720.	88.00
+Plymouth Volare,20.5,100.0,3430.	100.0
+AMC Concord,19.4,90.00,3210.	90.00
+Buick Century Special,20.6,105.0,3380.	105.0
+Mercury Zephyr,20.8,85.00,3070.	85.00
+Dodge Aspen,18.6,110.0,3620.	110.0
+AMC Concord d/l,18.1,120.0,3410.	120.0
+Chevrolet Monte Carlo Landau,19.2,145.0,3425.	145.0
+Buick Regal Sport Coupe (turbo),17.7,165.0,3445.	165.0
+Ford Futura,18.1,139.0,3205.	139.0
+Dodge Magnum XE,17.5,140.0,4080.	140.0
+Chevrolet Chevette,30.0,68.00,2155.	68.00
+Toyota Corolla,27.5,95.00,2560.	95.00
+Datsun 510,27.2,97.00,2300.	97.00
+Dodge Omni,30.9,75.00,2230.	75.00
+Toyota Celica GT Liftback,21.1,95.00,2515.	95.00
+Plymouth Sapporo,23.2,105.0,2745.	105.0
+Oldsmobile Starfire SX,23.8,85.00,2855.	85.00
+Datsun 200-SX,23.9,97.00,2405.	97.00
+Audi 5000,20.3,103.0,2830.	103.0
+Volvo 264gl,17.0,125.0,3140.	125.0
+Saab 99gle,21.6,115.0,2795.	115.0
+Peugeot 604sl,16.2,133.0,3410.	133.0
+Volkswagen Scirocco,31.5,71.00,1990.	71.00
+Honda Accord LX,29.5,68.00,2135.	68.00
+Pontiac Lemans V6,21.5,115.0,3245.	115.0
+Mercury Zephyr 6,19.8,85.00,2990.	85.00
+Ford Fairmont 4,22.3,88.00,2890.	88.00
+AMC Concord DL 6,20.2,90.00,3265.	90.00
+Dodge Aspen 6,20.6,110.0,3360.	110.0
+Chevrolet Caprice Classic,17.0,130.0,3840.	130.0
+Ford LTD Landau,17.6,129.0,3725.	129.0
+Mercury Grand Marquis,16.5,138.0,3955.	138.0
+Dodge St. Regis,18.2,135.0,3830.	135.0
+Buick Estate Wagon (sw),16.9,155.0,4360.	155.0
+Ford Country Squire (sw),15.5,142.0,4054.	142.0
+Chevrolet Malibu Classic (sw),19.2,125.0,3605.	125.0
+Chrysler Lebaron Town @ Country (sw),18.5,150.0,3940.	150.0
+Volkswagen Rabbit Custom,31.9,71.00,1925.	71.00
+Mazda GLC Deluxe,34.1,65.00,1975.	65.00
+Dodge Colt Hatchback Custom,35.7,80.00,1915.	80.00
+AMC Spirit DL,27.4,80.00,2670.	80.00
+Mercedes Benz 300d,25.4,77.00,3530.	77.00
+Cadillac Eldorado,23.0,125.0,3900.	125.0
+Peugeot 504,27.2,71.00,3190.	71.00
+Oldsmobile Cutlass Salon Brougham,23.9,90.00,3420.	90.00
+Plymouth Horizon,34.2,70.00,2200.	70.00
+Plymouth Horizon TC3,34.5,70.00,2150.	70.00
+Datsun 210,31.8,65.00,2020.	65.00
+Fiat Strada Custom,37.3,69.00,2130.	69.00
+Buick Skylark Limited,28.4,90.00,2670.	90.00
+Chevrolet Citation,28.8,115.0,2595.	115.0
+Oldsmobile Omega Brougham,26.8,115.0,2700.	115.0
+Pontiac Phoenix,33.5,90.00,2556.	90.00
+Volkswagen Rabbit,41.5,76.00,2144.	76.00
+Toyota Corolla Tercel,38.1,60.00,1968.	60.00
+Chevrolet Chevette,32.1,70.00,2120.	70.00
+Datsun 310,37.2,65.00,2019.	65.00
+Chevrolet Citation,28.0,90.00,2678.	90.00
+Ford Fairmont,26.4,88.00,2870.	88.00
+AMC Concord,24.3,90.00,3003.	90.00
+Dodge Aspen,19.1,90.00,3381.	90.00
+Audi 4000,34.3,78.00,2188.	78.00
+Toyota Corolla Liftback,29.8,90.00,2711.	90.00
+Mazda 626,31.3,75.00,2542.	75.00
+Datsun 510 Hatchback,37.0,92.00,2434.	92.00
+Toyota Corolla,32.2,75.00,2265.	75.00
+Mazda GLC,46.6,65.00,2110.	65.00
+Dodge Colt,27.9,105.0,2800.	105.0
+Datsun 210,40.8,65.00,2110.	65.00
+Volkswagen Rabbit C (Diesel),44.3,48.00,2085.	48.00
+Volkswagen Dasher (diesel),43.4,48.00,2335.	48.00
+Audi 5000s (diesel),36.4,67.00,2950.	67.00
+Mercedes-Benz 240d,30.0,67.00,3250.	67.00
+Honda Civic 1500 gl,44.6,67.00,1850.	67.00
+Renault Lecar Deluxe,40.9,0,1835.	0
+Subaru DL,33.8,67.00,2145.	67.00
+Volkswagen Rabbit,29.8,62.00,1845.	62.00
+Datsun 280-ZX,32.7,132.0,2910.	132.0
+Mazda RX-7 GS,23.7,100.0,2420.	100.0
+Triumph TR7 Coupe,35.0,88.00,2500.	88.00
+Ford Mustang Cobra,23.6,0,2905.	0
+Honda Accord,32.4,72.00,2290.	72.00
+Plymouth Reliant,27.2,84.00,2490.	84.00
+Buick Skylark,26.6,84.00,2635.	84.00
+Dodge Aries Wagon (sw),25.8,92.00,2620.	92.00
+Chevrolet Citation,23.5,110.0,2725.	110.0
+Plymouth Reliant,30.0,84.00,2385.	84.00
+Toyota Starlet,39.1,58.00,1755.	58.00
+Plymouth Champ,39.0,64.00,1875.	64.00
+Honda Civic 1300,35.1,60.00,1760.	60.00
+Subaru,32.3,67.00,2065.	67.00
+Datsun 210 MPG,37.0,65.00,1975.	65.00
+Toyota Tercel,37.7,62.00,2050.	62.00
+Mazda GLC 4,34.1,68.00,1985.	68.00
+Plymouth Horizon 4,34.7,63.00,2215.	63.00
+Ford Escort 4W,34.4,65.00,2045.	65.00
+Ford Escort 2H,29.9,65.00,2380.	65.00
+Volkswagen Jetta,33.0,74.00,2190.	74.00
+Renault 18i,34.5,0,2320.	0
+Honda Prelude,33.7,75.00,2210.	75.00
+Toyota Corolla,32.4,75.00,2350.	75.00
+Datsun 200SX,32.9,100.0,2615.	100.0
+Mazda 626,31.6,74.00,2635.	74.00
+Peugeot 505s Turbo Diesel,28.1,80.00,3230.	80.00
+Saab 900s,0,110.0,2800.	110.0
+Volvo Diesel,30.7,76.00,3160.	76.00
+Toyota Cressida,25.4,116.0,2900.	116.0
+Datsun 810 Maxima,24.2,120.0,2930.	120.0
+Buick Century,22.4,110.0,3415.	110.0
+Oldsmobile Cutlass LS,26.6,105.0,3725.	105.0
+Ford Grenada gl,20.2,88.00,3060.	88.00
+Chrysler Lebaron Salon,17.6,85.00,3465.	85.00
+Chevrolet Cavalier,28.0,88.00,2605.	88.00
+Chevrolet Cavalier Wagon,27.0,88.00,2640.	88.00
+Chevrolet Cavalier 2-door,34.0,88.00,2395.	88.00
+Pontiac J2000 SE Hatchback,31.0,85.00,2575.	85.00
+Dodge Aries SE,29.0,84.00,2525.	84.00
+Pontiac Phoenix,27.0,90.00,2735.	90.00
+Ford Fairmont Futura,24.0,92.00,2865.	92.00
+AMC Concord DL,23.0,0,3035.	0
+Volkswagen Rabbit l,36.0,74.00,1980.	74.00
+Mazda GLC Custom l,37.0,68.00,2025.	68.00
+Mazda GLC Custom,31.0,68.00,1970.	68.00
+Plymouth Horizon Miser,38.0,63.00,2125.	63.00
+Mercury Lynx l,36.0,70.00,2125.	70.00
+Nissan Stanza XE,36.0,88.00,2160.	88.00
+Honda Accord,36.0,75.00,2205.	75.00
+Toyota Corolla,34.0,70.00,2245	70.00
+Honda Civic,38.0,67.00,1965.	67.00
+Honda Civic (auto),32.0,67.00,1965.	67.00
+Datsun 310 GX,38.0,67.00,1995.	67.00
+Buick Century Limited,25.0,110.0,2945.	110.0
+Oldsmobile Cutlass Ciera (diesel),38.0,85.00,3015.	85.00
+Chrysler Lebaron Medallion,26.0,92.00,2585.	92.00
+Ford Grenada l,22.0,112.0,2835	112.0
+Toyota Celica GT,32.0,96.00,2665.	96.00
+Dodge Charger 2.2,36.0,84.00,2370.	84.00
+Chevrolet Camaro,27.0,90.00,2950.	90.00
+Ford Mustang GL,27.0,86.00,2790.	86.00
+Volkswagen Pickup,44.0,52.00,2130.	52.00
+Dodge Rampage,32.0,84.00,2295.	84.00
+Ford Ranger,28.0,79.00,2625.	79.00
+Chevy S-10,31.0,82.00,2720.	82.00

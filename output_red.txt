@@ -1,0 +1,7 @@
+Plymouth Satellite (sw)						0
+AMC Rebel SST (sw)						0
+Pontiac Catalina Brougham						14.0
+Pontiac Safari (sw)						13.0
+Pontiac Catalina						14.0
+Buick Century 350						13.0
+AMC Ambassador Brougham						13.0

@@ -12,6 +12,7 @@ f = open("schema.txt",'r')
 schemas = f.read()
 f.close()
 schemas = schemas.split("\n")
+v = 0
 for i in schemas:
     if(i.split(" ")[0] == sys.argv[2]):
         schema = (i.split(" ")[1]).split(",")
@@ -19,6 +20,9 @@ for i in schemas:
         for j in range(len(schema)):
             if(schema[j] in columns):
                 l.append(j)
+            if(sys.argv[3] == schema[j]):
+                v = j
+            
 #fuel column index 8
 #print(l)
 #l = [0,2,3]
@@ -34,7 +38,10 @@ for line in infile:
                     string = string + "," + list[j]
                 else:
                     string = list[j]
-        print(string)
+            if(j == v):
+                value = list[v]
+
+        print(string + "\t" +value)
 
 
 
