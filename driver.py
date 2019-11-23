@@ -46,6 +46,9 @@ if __name__=="__main__":
             dict_sch[i.split(" ")[0]] = i.split(" ")[1],i.split(" ")[2]
         for i in dict_sch: 
             if((inp[3].split("/")[0] == i) and (inp[3].split("/")[1] == dict_sch[i][1])):
+                #print(dict_sch[i][1])
+                if(inp[1] == "*"):
+                    inp[1] = dict_sch[i][0]
                 res = os.popen("python3 mapper.py<data/"+dict_sch[i][1]+" "+inp[1]+" "+i + " "+inp[5])
                 output = res.read()
                 f = open('output_map.txt', 'w')
