@@ -8,13 +8,58 @@ for line in sys.stdin:
     line = line.split("\t")
     #print(line[1])
     #print(sys.argv[1])
-    if(line[1] == sys.argv[1]):
-        string = ""
-        selected = line[0].split(",")
-        #print(selected)
-        for i in selected:
-            if(string == ""):
-                string = i
-            else:
-                string = string + "\t\t\t\t\t\t" + i
-        print(string + "")
+    if(sys.argv[2] == "1"):
+        if(float(line[1]) == float(sys.argv[1])):
+            string = ""
+            selected = line[0].split(",")
+            #print(selected)
+            for i in selected:
+                if(string == ""):
+                    string = i
+                else:
+                    string = string + "\t\t\t\t\t\t" + i
+            print(string + "")
+    if(sys.argv[2] == "3"):
+        if(float(line[1]) > float(sys.argv[1])):
+            string = ""
+            selected = line[0].split(",")
+            #print(selected)
+            for i in selected:
+                if(string == ""):
+                    string = i
+                else:
+                    string = string + "\t\t\t\t\t\t" + i
+            print(string + "")
+    if(sys.argv[2] == "2"):
+        if(float(line[1]) < float(sys.argv[1])):
+            string = ""
+            selected = line[0].split(",")
+            #print(selected)
+            for i in selected:
+                if(string == ""):
+                    string = i
+                else:
+                    string = string + "\t\t\t\t\t\t" + i
+            print(string + "")
+    if(sys.argv[2] == "5"):
+        if(float(line[1]) >= float(sys.argv[1])):
+            string = ""
+            selected = line[0].split(",")
+            #print(selected)
+            for i in selected:
+                if(string == ""):
+                    string = i
+                else:
+                    string = string + "\t\t\t\t\t\t" + i
+            print(string + "")
+    if(sys.argv[2] == "4"):
+        if(float(line[1]) <= float(sys.argv[1])):
+            string = ""
+            selected = line[0].split(",")
+            #print(selected)
+            for i in selected:
+                if(string == ""):
+                    string = i
+                else:
+                    string = string + "\t\t\t\t\t\t" + i
+            print(string + "")

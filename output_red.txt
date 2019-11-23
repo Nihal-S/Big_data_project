@@ -1,7 +1,300 @@
-Plymouth Satellite (sw)						0
-AMC Rebel SST (sw)						0
-Pontiac Catalina Brougham						14.0
-Pontiac Safari (sw)						13.0
-Pontiac Catalina						14.0
-Buick Century 350						13.0
-AMC Ambassador Brougham						13.0
+Chevrolet Chevelle Malibu
+Buick Skylark 320
+Plymouth Satellite
+AMC Rebel SST
+Ford Torino
+Ford Galaxie 500
+Chevrolet Impala
+Plymouth Fury iii
+Pontiac Catalina
+AMC Ambassador DPL
+Citroen DS-21 Pallas
+Chevrolet Chevelle Concours (sw)
+Ford Torino (sw)
+Plymouth Satellite (sw)
+AMC Rebel SST (sw)
+Dodge Challenger SE
+Plymouth 'Cuda 340
+Ford Mustang Boss 302
+Chevrolet Monte Carlo
+Buick Estate Wagon (sw)
+Toyota Corolla Mark ii
+Plymouth Duster
+AMC Hornet
+Ford Maverick
+Datsun PL510
+Peugeot 504
+Audi 100 LS
+Saab 99e
+BMW 2002
+AMC Gremlin
+Ford F250
+Chevy C20
+Dodge D200
+Hi 1200D
+Datsun PL510
+Chevrolet Vega 2300
+Toyota Corolla
+AMC Gremlin
+Plymouth Satellite Custom
+Chevrolet Chevelle Malibu
+Ford Torino 500
+AMC Matador
+Chevrolet Impala
+Pontiac Catalina Brougham
+Ford Galaxie 500
+Plymouth Fury iii
+Dodge Monaco (sw)
+Ford Country Squire (sw)
+Pontiac Safari (sw)
+AMC Hornet Sportabout (sw)
+Pontiac Firebird
+Ford Mustang
+Mercury Capri 2000
+Opel 1900
+Fiat 124B
+Toyota Corolla Hardtop
+Dodge Colt Hardtop
+Chevrolet Vega
+Ford Pinto Runabout
+Chevrolet Impala
+Pontiac Catalina
+Plymouth Fury III
+Ford Galaxie 500
+AMC Ambassador SST
+Mercury Marquis
+Buick LeSabre Custom
+Oldsmobile Delta 88 Royale
+Chrysler Newport Royal
+Mazda RX2 Coupe
+AMC Matador (sw)
+Chevrolet Chevelle Concours (sw)
+Ford Gran Torino (sw)
+Plymouth Satellite Custom (sw)
+Volvo 145e (sw)
+Volkswagen 411 (sw)
+Peugeot 504 (sw)
+Ford Pinto (sw)
+Datsun 510 (sw)
+Toyota Corolla Mark II (sw)
+Dodge Colt (sw)
+Toyota Corolla 1600 (sw)
+Buick Century 350
+AMC Matador
+Chevrolet Malibu
+Ford Gran Torino
+Dodge Coronet Custom
+Mercury Marquis Brougham
+Chevrolet Caprice Classic
+Ford LTD
+Plymouth Fury Gran Sedan
+Chrysler New Yorker Brougham
+Buick Electra 225 Custom
+AMC Ambassador Brougham
+Plymouth Valiant
+Chevrolet Nova Custom
+AMC Hornet
+Ford Maverick
+Plymouth Duster
+Chevrolet Impala
+Ford Country
+Plymouth Custom Suburb
+Oldsmobile Vista Cruiser
+AMC Gremlin
+Toyota Camry
+Datsun 610
+Mazda RX3
+Ford Pinto
+Mercury Capri v6
+Fiat 124 Sport Coupe
+Chevrolet Monte Carlo S
+Pontiac Grand Prix
+Audi 100LS
+Volvo 144ea
+Dodge Dart Custom
+Saab 99le
+Toyota Mark II
+Oldsmobile Omega
+Plymouth Duster
+AMC Hornet
+Chevrolet Nova
+Ford Pinto
+Chevrolet Chevelle Malibu Classic
+AMC Matador
+Plymouth Satellite Sebring
+Ford Gran Torino
+Buick Century Luxus (sw)
+Dodge Coronet Custom (sw)
+Ford Gran Torino (sw)
+AMC Matador (sw)
+Audi Fox
+Opel Manta
+Honda Civic
+Subaru
+Plymouth Valiant Custom
+Chevrolet Nova
+Pontiac Catalina
+Chevrolet Bel Air
+Plymouth Grand Fury
+Ford LTD
+Buick Century
+Chevrolete Chevelle Malibu
+AMC Matador
+Plymouth Fury
+Buick Skyhawk
+Chevrolet Monza 2+2
+Ford Mustang II
+Ford Pinto
+AMC Gremlin
+Pontiac Astro
+Toyota Corolla
+Datsun 710
+Ford Pinto
+AMC Pacer
+Audi 100LS
+Peugeot 504
+Volvo 244DL
+Saab 99LE
+Fiat 131
+Opel 1900
+Capri ii
+Dodge Colt
+Renault 12tl
+Chevrolet Chevelle Malibu Classic
+Dodge Coronet Brougham
+AMC Matador
+Ford Gran Torino
+Plymouth Valiant
+Chevrolet Nova
+Ford Maverick
+AMC Hornet
+Dodge Aspen SE
+Ford Grenada ghia
+Pontiac Ventura SJ
+AMC Pacer d/l
+Volvo 245
+Plymouth Volare Premier v8
+Peugeot 504
+Toyota Mark II
+Mercedes-Benz 280s
+Cadillac Seville
+Chevrolet C10
+Ford F108
+Dodge D100
+Buick Opel Isuzu Deluxe
+Plymouth Arrow GS
+Chevrolet Caprice Classic
+Oldsmobile Cutlass Supreme
+Dodge Monaco Brougham
+Mercury Cougar Brougham
+Chevrolet Concours
+Buick Skylark
+Plymouth Volare Custom
+Ford Grenada
+Pontiac Grand Prix LJ
+Chevrolet Monte Carlo Landau
+Chrysler Cordoba
+Ford Thunderbird
+Volkswagen Rabbit Custom
+Pontiac Sunbird Coupe
+Ford Mustang II 2+2
+Dodge Colt m/m
+Volkswagen Dasher
+Datsun 810
+BMW 320i
+Mazda RX-4
+Oldsmobile Cutlass Salon Brougham
+Dodge Diplomat
+Mercury Monarch ghia
+Pontiac Phoenix LJ
+Chevrolet Malibu
+Ford Fairmont (auto)
+Ford Fairmont (man)
+Plymouth Volare
+AMC Concord
+Buick Century Special
+Mercury Zephyr
+Dodge Aspen
+AMC Concord d/l
+Chevrolet Monte Carlo Landau
+Buick Regal Sport Coupe (turbo)
+Ford Futura
+Dodge Magnum XE
+Toyota Corolla
+Datsun 510
+Toyota Celica GT Liftback
+Plymouth Sapporo
+Oldsmobile Starfire SX
+Datsun 200-SX
+Audi 5000
+Volvo 264gl
+Saab 99gle
+Peugeot 604sl
+Pontiac Lemans V6
+Mercury Zephyr 6
+Ford Fairmont 4
+AMC Concord DL 6
+Dodge Aspen 6
+Chevrolet Caprice Classic
+Ford LTD Landau
+Mercury Grand Marquis
+Dodge St. Regis
+Buick Estate Wagon (sw)
+Ford Country Squire (sw)
+Chevrolet Malibu Classic (sw)
+Chrysler Lebaron Town @ Country (sw)
+Dodge Colt Hatchback Custom
+AMC Spirit DL
+Mercedes Benz 300d
+Cadillac Eldorado
+Oldsmobile Cutlass Salon Brougham
+Buick Skylark Limited
+Chevrolet Citation
+Oldsmobile Omega Brougham
+Pontiac Phoenix
+Volkswagen Rabbit
+Chevrolet Citation
+Ford Fairmont
+AMC Concord
+Dodge Aspen
+Audi 4000
+Toyota Corolla Liftback
+Datsun 510 Hatchback
+Dodge Colt
+Datsun 280-ZX
+Mazda RX-7 GS
+Triumph TR7 Coupe
+Plymouth Reliant
+Buick Skylark
+Dodge Aries Wagon (sw)
+Chevrolet Citation
+Plymouth Reliant
+Datsun 200SX
+Peugeot 505s Turbo Diesel
+Saab 900s
+Volvo Diesel
+Toyota Cressida
+Datsun 810 Maxima
+Buick Century
+Oldsmobile Cutlass LS
+Ford Grenada gl
+Chrysler Lebaron Salon
+Chevrolet Cavalier
+Chevrolet Cavalier Wagon
+Chevrolet Cavalier 2-door
+Pontiac J2000 SE Hatchback
+Dodge Aries SE
+Pontiac Phoenix
+Ford Fairmont Futura
+Nissan Stanza XE
+Buick Century Limited
+Oldsmobile Cutlass Ciera (diesel)
+Chrysler Lebaron Medallion
+Ford Grenada l
+Toyota Celica GT
+Dodge Charger 2.2
+Chevrolet Camaro
+Ford Mustang GL
+Dodge Rampage
+Ford Ranger
+Chevy S-10

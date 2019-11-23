@@ -51,9 +51,20 @@ if __name__=="__main__":
                 f = open('output_map.txt', 'w')
                 f.write(output)
                 f.close()
-                
 
-                res = os.popen('python3 reducer.py < output_map.txt '+ inp[-1][:-1])
+                if(inp[-2] == "="):
+                    encoded = 1
+                elif(inp[-2] == "<"):
+                    encoded = 2
+                elif(inp[-2] == ">"):
+                    encoded = 3
+                elif(inp[-2] == "<="):
+                    encoded = 4
+                elif(inp[-2] == ">="):
+                    encoded = 5
+                var = 'python3 reducer.py < output_map.txt '+ inp[-1][:-1] + " " + str(encoded)
+                res = os.popen('python3 reducer.py < output_map.txt '+ inp[-1][:-1] + " " + str(encoded))
+                print(var)
                 output = res.read()
                 print(output)
                 f = open("output_red.txt","w")
