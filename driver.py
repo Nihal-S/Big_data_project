@@ -49,7 +49,7 @@ if __name__=="__main__":
                 #print(dict_sch[i][1])
                 if(inp[1] == "*"):
                     inp[1] = dict_sch[i][0]
-                if(inp[1][-1] != "("):
+                if(inp[1][-1] != ")"):
                     res = os.popen("python3 mapper.py<data/"+dict_sch[i][1]+" "+inp[1]+" "+i + " "+inp[5])
                     output = res.read()
                 else:
@@ -92,6 +92,27 @@ if __name__=="__main__":
             elif((inp[3].split("/")[0] != i) and (inp[3].split("/")[1] != dict_sch[i][1])):
                 print("[ERROR]:- Database not found")
 
+
+    if(inp[0] == "delete" and inp[-1][-1] == ";"):
+        f = open("schema.txt",'r')
+        schemas = f.read()
+        f.close()
+        schemas = schemas.split("\n")
+        del_schema = inp[1][:-1]
+        dict_sch={}
+        #print(del_schema)
+        for i in schemas:
+            dict_sch[i.split(" ")[0]] = [i.split(" ")[1],i.split(" ")[2]]
+        #print(schemas)
+        print(dict_sch)
+        f = open("schema.txt","w")
+        count = 0
+        for i in dict_sch:
+            if(i != del_schema):
+                if():
+                    f.write(i)
+            count +=1
+        f.close()
 
 #except:
     #print("[ERROR]:-Not a valid syntax")

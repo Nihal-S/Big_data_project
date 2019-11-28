@@ -1,1 +1,7 @@
 cars car,mpg,cylinders,displacement,hp,weight,acceleration,model,origin cars.csv
+cars1 car,mpg,cylinders,displacement,hp,weight,acceleration,model,origin cars.csv
+cars2 car,mpg,cylinders,displacement,hp,weight,acceleration,model,origin cars.csv
+cars3 car,mpg,cylinders,displacement,hp,weight,acceleration,model,origin cars.csv
+cars4 car,mpg,cylinders,displacement,hp,weight,acceleration,model,origin cars.csv
+cars5 car,mpg,cylinders,displacement,hp,weight,acceleration,model,origin cars.csv
+cars6 car,mpg,cylinders,displacement,hp,weight,acceleration,model,origin cars.csv
