@@ -49,11 +49,18 @@ if __name__=="__main__":
                 #print(dict_sch[i][1])
                 if(inp[1] == "*"):
                     inp[1] = dict_sch[i][0]
-                res = os.popen("python3 mapper.py<data/"+dict_sch[i][1]+" "+inp[1]+" "+i + " "+inp[5])
-                output = res.read()
+                if(inp[1][-1] != "("):
+                    res = os.popen("python3 mapper.py<data/"+dict_sch[i][1]+" "+inp[1]+" "+i + " "+inp[5])
+                    output = res.read()
+                else:
+                    #print(inp[1][4:-1])
+                    res = os.popen("python3 mapper.py<data/"+dict_sch[i][1]+" "+inp[1][4:-1]+" "+i + " "+inp[5])
+                    output = res.read()
                 f = open('output_map.txt', 'w')
                 f.write(output)
                 f.close()
+
+
 
                 if(inp[-2] == "="):
                     encoded = 1
@@ -65,14 +72,22 @@ if __name__=="__main__":
                     encoded = 4
                 elif(inp[-2] == ">="):
                     encoded = 5
-                var = 'python3 reducer.py < output_map.txt '+ inp[-1][:-1] + " " + str(encoded)
-                res = os.popen('python3 reducer.py < output_map.txt '+ inp[-1][:-1] + " " + str(encoded))
-                print(var)
-                output = res.read()
-                print(output)
-                f = open("output_red.txt","w")
-                f.write(output)
-                f.close()
+                
+                if(inp[1][-1] == ")"):
+                    res = os.popen('python3 reducer1.py < output_map.txt '+ inp[-1][:-1] + " " + str(encoded)+ " " + inp[1][0:3])
+                    #print(var)
+                    output = res.read()
+                    print(output)
+
+                else:
+                    #var = 'python3 reducer.py < output_map.txt '+ inp[-1][:-1] + " " + str(encoded)
+                    res = os.popen('python3 reducer.py < output_map.txt '+ inp[-1][:-1] + " " + str(encoded))
+                    #print(var)
+                    output = res.read()
+                    print(output)
+                    f = open("output_red.txt","w")
+                    f.write(output)
+                    f.close()
 
             elif((inp[3].split("/")[0] != i) and (inp[3].split("/")[1] != dict_sch[i][1])):
                 print("[ERROR]:- Database not found")

@@ -1,3 +1,1 @@
 cars car,mpg,cylinders,displacement,hp,weight,acceleration,model,origin cars.csv
-vehicle hi,hello cars.csv
-cars2 car,mpg cars.csv
