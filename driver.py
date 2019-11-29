@@ -104,14 +104,21 @@ if __name__=="__main__":
         for i in schemas:
             dict_sch[i.split(" ")[0]] = [i.split(" ")[1],i.split(" ")[2]]
         #print(schemas)
-        print(dict_sch)
+        #print(dict_sch)
         f = open("schema.txt","w")
         count = 0
+        if(del_schema not in dict_sch):
+            print("[ERROR]:-SCHEMA NOT FOUND")
+
         for i in dict_sch:
             if(i != del_schema):
-                if():
-                    f.write(i)
-            count +=1
+                if(count != (len(del_schema)+1)):
+                    f.write(i+" "+dict_sch[i][0]+" "+dict_sch[i][1]+"\n")
+                else:
+                    f.write(i+" "+dict_sch[i][0]+" "+dict_sch[i][1])
+            print(count,i)
+            count+=1
+
         f.close()
 
 #except:
