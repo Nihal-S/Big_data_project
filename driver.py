@@ -116,7 +116,7 @@ if __name__=="__main__":
                     f.write(i+" "+dict_sch[i][0]+" "+dict_sch[i][1]+"\n")
                 else:
                     f.write(i+" "+dict_sch[i][0]+" "+dict_sch[i][1])
-            print(count,i)
+            #print(count,i)
             count+=1
 
         f.close()
