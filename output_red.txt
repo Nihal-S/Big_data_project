@@ -1,14 +1,14 @@
-24.0
-25.0
-28.0
-24.0
-26.0
-29.0
-28.0
-26.0
-30.9
-31.3
-32.2
-33.7
-32.4
-36.0
+Opel Manta
+Chevrolet Vega
+Dodge Colt
+Fiat 128
+Fiat 124 TC
+Toyota Corolla
+Toyota Corolla
+Toyota Corolla Liftback
+Dodge Omni
+Mazda 626
+Toyota Corolla
+Honda Prelude
+Toyota Corolla
+Honda Accord

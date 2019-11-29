@@ -58,5 +58,5 @@ if(sys.argv[3] == "sum"):
     print(sum(list))
 if(sys.argv[3] == "avg"):
     print(sum(list)/float(len(list)))
-if(sys.argv[3] == "con"):
+if(sys.argv[3] == "cnt"):
     print(len(list))

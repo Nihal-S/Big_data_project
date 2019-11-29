@@ -1,406 +1,406 @@
-18.0	130.0
-15.0	165.0
-18.0	150.0
-16.0	150.0
-17.0	140.0
-15.0	198.0
-14.0	220.0
-14.0	215.0
-14.0	225.0
-15.0	190.0
-0	115.0
-0	165.0
-0	153.0
-0	175.0
-0	175.0
-15.0	170.0
-14.0	160.0
-0	140.0
-15.0	150.0
-14.0	225.0
-24.0	95.00
-22.0	95.00
-18.0	97.00
-21.0	85.00
-27.0	88.00
-26.0	46.00
-25.0	87.00
-24.0	90.00
-25.0	95.00
-26.0	113.0
-21.0	90.00
-10.0	215.0
-10.0	200.0
-11.0	210.0
-9.0	193.0
-27.0	88.00
-28.0	90.00
-25.0	95.00
-25.0	0
-0	48.00
-19.0	100.0
-16.0	105.0
-17.0	100.0
-19.0	88.00
-18.0	100.0
-14.0	165.0
-14.0	175.0
-14.0	153.0
-14.0	150.0
-12.0	180.0
-13.0	170.0
-13.0	175.0
-18.0	110.0
-22.0	72.00
-19.0	100.0
-18.0	88.00
-23.0	86.00
-28.0	90.00
-30.0	70.00
-30.0	76.00
-31.0	65.00
-35.0	69.00
-27.0	60.00
-26.0	70.00
-24.0	95.00
-25.0	80.00
-23.0	54.00
-20.0	90.00
-21.0	86.00
-13.0	165.0
-14.0	175.0
-15.0	150.0
-14.0	153.0
-17.0	150.0
-11.0	208.0
-13.0	155.0
-12.0	160.0
-13.0	190.0
-19.0	97.00
-15.0	150.0
-13.0	130.0
-13.0	140.0
-14.0	150.0
-18.0	112.0
-22.0	76.00
-21.0	87.00
-26.0	69.00
-22.0	86.00
-28.0	92.00
-23.0	97.00
-28.0	80.00
-27.0	88.00
-13.0	175.0
-14.0	150.0
-13.0	145.0
-14.0	137.0
-15.0	150.0
-12.0	198.0
-13.0	150.0
-13.0	158.0
-14.0	150.0
-13.0	215.0
-12.0	225.0
-13.0	175.0
-18.0	105.0
-16.0	100.0
-18.0	100.0
-18.0	88.00
-23.0	95.00
-26.0	46.00
-11.0	150.0
-12.0	167.0
-13.0	170.0
-12.0	180.0
-18.0	100.0
-20.0	88.00
-21.0	72.00
-22.0	94.00
-18.0	90.00
-19.0	85.00
-21.0	107.0
-26.0	90.00
-15.0	145.0
-16.0	230.0
-29.0	49.00
-24.0	75.00
-20.0	91.00
-19.0	112.0
-15.0	150.0
-24.0	110.0
-20.0	122.0
-11.0	180.0
-20.0	95.00
-21.0	0
-19.0	100.0
-15.0	100.0
-31.0	67.00
-26.0	80.00
-32.0	65.00
-25.0	75.00
-16.0	100.0
-16.0	110.0
-18.0	105.0
-16.0	140.0
-13.0	150.0
-14.0	150.0
-14.0	140.0
-14.0	150.0
-29.0	83.00
-26.0	67.00
-26.0	78.00
-31.0	52.00
-32.0	61.00
-28.0	75.00
-24.0	75.00
-26.0	75.00
-24.0	97.00
-26.0	93.00
-31.0	67.00
-19.0	95.00
-18.0	105.0
-15.0	72.00
-15.0	72.00
-16.0	170.0
-15.0	145.0
-16.0	150.0
-14.0	148.0
-17.0	110.0
-16.0	105.0
-15.0	110.0
-18.0	95.00
-21.0	110.0
-20.0	110.0
-13.0	129.0
-29.0	75.00
-23.0	83.00
-20.0	100.0
-23.0	78.00
-24.0	96.00
-25.0	71.00
-24.0	97.00
-18.0	97.00
-29.0	70.00
-19.0	90.00
-23.0	95.00
-23.0	88.00
-22.0	98.00
-25.0	115.0
-33.0	53.00
-28.0	86.00
-25.0	81.00
-25.0	92.00
-26.0	79.00
-27.0	83.00
-17.5	140.0
-16.0	150.0
-15.5	120.0
-14.5	152.0
-22.0	100.0
-22.0	105.0
-24.0	81.00
-22.5	90.00
-29.0	52.00
-24.5	60.00
-29.0	70.00
-33.0	53.00
-20.0	100.0
-18.0	78.00
-18.5	110.0
-17.5	95.00
-29.5	71.00
-32.0	70.00
-28.0	75.00
-26.5	72.00
-20.0	102.0
-13.0	150.0
-19.0	88.00
-19.0	108.0
-16.5	120.0
-16.5	180.0
-13.0	145.0
-13.0	130.0
-13.0	150.0
-31.5	68.00
-30.0	80.00
-36.0	58.00
-25.5	96.00
-33.5	70.00
-17.5	145.0
-17.0	110.0
-15.5	145.0
-15.0	130.0
-17.5	110.0
-20.5	105.0
-19.0	100.0
-18.5	98.00
-16.0	180.0
-15.5	170.0
-15.5	190.0
-16.0	149.0
-29.0	78.00
-24.5	88.00
-26.0	75.00
-25.5	89.00
-30.5	63.00
-33.5	83.00
-30.0	67.00
-30.5	78.00
-22.0	97.00
-21.5	110.0
-21.5	110.0
-43.1	48.00
-36.1	66.00
-32.8	52.00
-39.4	70.00
-36.1	60.00
-19.9	110.0
-19.4	140.0
-20.2	139.0
-19.2	105.0
-20.5	95.00
-20.2	85.00
-25.1	88.00
-20.5	100.0
-19.4	90.00
-20.6	105.0
-20.8	85.00
-18.6	110.0
-18.1	120.0
-19.2	145.0
-17.7	165.0
-18.1	139.0
-17.5	140.0
-30.0	68.00
-27.5	95.00
-27.2	97.00
-30.9	75.00
-21.1	95.00
-23.2	105.0
-23.8	85.00
-23.9	97.00
-20.3	103.0
-17.0	125.0
-21.6	115.0
-16.2	133.0
-31.5	71.00
-29.5	68.00
-21.5	115.0
-19.8	85.00
-22.3	88.00
-20.2	90.00
-20.6	110.0
-17.0	130.0
-17.6	129.0
-16.5	138.0
-18.2	135.0
-16.9	155.0
-15.5	142.0
-19.2	125.0
-18.5	150.0
-31.9	71.00
-34.1	65.00
-35.7	80.00
-27.4	80.00
-25.4	77.00
-23.0	125.0
-27.2	71.00
-23.9	90.00
-34.2	70.00
-34.5	70.00
-31.8	65.00
-37.3	69.00
-28.4	90.00
-28.8	115.0
-26.8	115.0
-33.5	90.00
-41.5	76.00
-38.1	60.00
-32.1	70.00
-37.2	65.00
-28.0	90.00
-26.4	88.00
-24.3	90.00
-19.1	90.00
-34.3	78.00
-29.8	90.00
-31.3	75.00
-37.0	92.00
-32.2	75.00
-46.6	65.00
-27.9	105.0
-40.8	65.00
-44.3	48.00
-43.4	48.00
-36.4	67.00
-30.0	67.00
-44.6	67.00
-40.9	0
-33.8	67.00
-29.8	62.00
-32.7	132.0
-23.7	100.0
-35.0	88.00
-23.6	0
-32.4	72.00
-27.2	84.00
-26.6	84.00
-25.8	92.00
-23.5	110.0
-30.0	84.00
-39.1	58.00
-39.0	64.00
-35.1	60.00
-32.3	67.00
-37.0	65.00
-37.7	62.00
-34.1	68.00
-34.7	63.00
-34.4	65.00
-29.9	65.00
-33.0	74.00
-34.5	0
-33.7	75.00
-32.4	75.00
-32.9	100.0
-31.6	74.00
-28.1	80.00
-0	110.0
-30.7	76.00
-25.4	116.0
-24.2	120.0
-22.4	110.0
-26.6	105.0
-20.2	88.00
-17.6	85.00
-28.0	88.00
-27.0	88.00
-34.0	88.00
-31.0	85.00
-29.0	84.00
-27.0	90.00
-24.0	92.00
-23.0	0
-36.0	74.00
-37.0	68.00
-31.0	68.00
-38.0	63.00
-36.0	70.00
-36.0	88.00
-36.0	75.00
-34.0	70.00
-38.0	67.00
-32.0	67.00
-38.0	67.00
-25.0	110.0
-38.0	85.00
-26.0	92.00
-22.0	112.0
-32.0	96.00
-36.0	84.00
-27.0	90.00
-27.0	86.00
-44.0	52.00
-32.0	84.00
-28.0	79.00
-31.0	82.00
+Chevrolet Chevelle Malibu	130.0
+Buick Skylark 320	165.0
+Plymouth Satellite	150.0
+AMC Rebel SST	150.0
+Ford Torino	140.0
+Ford Galaxie 500	198.0
+Chevrolet Impala	220.0
+Plymouth Fury iii	215.0
+Pontiac Catalina	225.0
+AMC Ambassador DPL	190.0
+Citroen DS-21 Pallas	115.0
+Chevrolet Chevelle Concours (sw)	165.0
+Ford Torino (sw)	153.0
+Plymouth Satellite (sw)	175.0
+AMC Rebel SST (sw)	175.0
+Dodge Challenger SE	170.0
+Plymouth 'Cuda 340	160.0
+Ford Mustang Boss 302	140.0
+Chevrolet Monte Carlo	150.0
+Buick Estate Wagon (sw)	225.0
+Toyota Corolla Mark ii	95.00
+Plymouth Duster	95.00
+AMC Hornet	97.00
+Ford Maverick	85.00
+Datsun PL510	88.00
+Volkswagen 1131 Deluxe Sedan	46.00
+Peugeot 504	87.00
+Audi 100 LS	90.00
+Saab 99e	95.00
+BMW 2002	113.0
+AMC Gremlin	90.00
+Ford F250	215.0
+Chevy C20	200.0
+Dodge D200	210.0
+Hi 1200D	193.0
+Datsun PL510	88.00
+Chevrolet Vega 2300	90.00
+Toyota Corolla	95.00
+Ford Pinto	0
+Volkswagen Super Beetle 117	48.00
+AMC Gremlin	100.0
+Plymouth Satellite Custom	105.0
+Chevrolet Chevelle Malibu	100.0
+Ford Torino 500	88.00
+AMC Matador	100.0
+Chevrolet Impala	165.0
+Pontiac Catalina Brougham	175.0
+Ford Galaxie 500	153.0
+Plymouth Fury iii	150.0
+Dodge Monaco (sw)	180.0
+Ford Country Squire (sw)	170.0
+Pontiac Safari (sw)	175.0
+AMC Hornet Sportabout (sw)	110.0
+Chevrolet Vega (sw)	72.00
+Pontiac Firebird	100.0
+Ford Mustang	88.00
+Mercury Capri 2000	86.00
+Opel 1900	90.00
+Peugeot 304	70.00
+Fiat 124B	76.00
+Toyota Corolla 1200	65.00
+Datsun 1200	69.00
+Volkswagen Model 111	60.00
+Plymouth Cricket	70.00
+Toyota Corolla Hardtop	95.00
+Dodge Colt Hardtop	80.00
+Volkswagen Type 3	54.00
+Chevrolet Vega	90.00
+Ford Pinto Runabout	86.00
+Chevrolet Impala	165.0
+Pontiac Catalina	175.0
+Plymouth Fury III	150.0
+Ford Galaxie 500	153.0
+AMC Ambassador SST	150.0
+Mercury Marquis	208.0
+Buick LeSabre Custom	155.0
+Oldsmobile Delta 88 Royale	160.0
+Chrysler Newport Royal	190.0
+Mazda RX2 Coupe	97.00
+AMC Matador (sw)	150.0
+Chevrolet Chevelle Concours (sw)	130.0
+Ford Gran Torino (sw)	140.0
+Plymouth Satellite Custom (sw)	150.0
+Volvo 145e (sw)	112.0
+Volkswagen 411 (sw)	76.00
+Peugeot 504 (sw)	87.00
+Renault 12 (sw)	69.00
+Ford Pinto (sw)	86.00
+Datsun 510 (sw)	92.00
+Toyota Corolla Mark II (sw)	97.00
+Dodge Colt (sw)	80.00
+Toyota Corolla 1600 (sw)	88.00
+Buick Century 350	175.0
+AMC Matador	150.0
+Chevrolet Malibu	145.0
+Ford Gran Torino	137.0
+Dodge Coronet Custom	150.0
+Mercury Marquis Brougham	198.0
+Chevrolet Caprice Classic	150.0
+Ford LTD	158.0
+Plymouth Fury Gran Sedan	150.0
+Chrysler New Yorker Brougham	215.0
+Buick Electra 225 Custom	225.0
+AMC Ambassador Brougham	175.0
+Plymouth Valiant	105.0
+Chevrolet Nova Custom	100.0
+AMC Hornet	100.0
+Ford Maverick	88.00
+Plymouth Duster	95.00
+Volkswagen Super Beetle	46.00
+Chevrolet Impala	150.0
+Ford Country	167.0
+Plymouth Custom Suburb	170.0
+Oldsmobile Vista Cruiser	180.0
+AMC Gremlin	100.0
+Toyota Camry	88.00
+Chevrolet Vega	72.00
+Datsun 610	94.00
+Mazda RX3	90.00
+Ford Pinto	85.00
+Mercury Capri v6	107.0
+Fiat 124 Sport Coupe	90.00
+Chevrolet Monte Carlo S	145.0
+Pontiac Grand Prix	230.0
+Fiat 128	49.00
+Opel Manta	75.00
+Audi 100LS	91.00
+Volvo 144ea	112.0
+Dodge Dart Custom	150.0
+Saab 99le	110.0
+Toyota Mark II	122.0
+Oldsmobile Omega	180.0
+Plymouth Duster	95.00
+Ford Maverick	0
+AMC Hornet	100.0
+Chevrolet Nova	100.0
+Datsun B210	67.00
+Ford Pinto	80.00
+Toyota Corolla 1200	65.00
+Chevrolet Vega	75.00
+Chevrolet Chevelle Malibu Classic	100.0
+AMC Matador	110.0
+Plymouth Satellite Sebring	105.0
+Ford Gran Torino	140.0
+Buick Century Luxus (sw)	150.0
+Dodge Coronet Custom (sw)	150.0
+Ford Gran Torino (sw)	140.0
+AMC Matador (sw)	150.0
+Audi Fox	83.00
+Volkswagen Dasher	67.00
+Opel Manta	78.00
+Toyota Corolla	52.00
+Datsun 710	61.00
+Dodge Colt	75.00
+Fiat 128	75.00
+Fiat 124 TC	75.00
+Honda Civic	97.00
+Subaru	93.00
+Fiat x1.9	67.00
+Plymouth Valiant Custom	95.00
+Chevrolet Nova	105.0
+Mercury Monarch	72.00
+Ford Maverick	72.00
+Pontiac Catalina	170.0
+Chevrolet Bel Air	145.0
+Plymouth Grand Fury	150.0
+Ford LTD	148.0
+Buick Century	110.0
+Chevrolete Chevelle Malibu	105.0
+AMC Matador	110.0
+Plymouth Fury	95.00
+Buick Skyhawk	110.0
+Chevrolet Monza 2+2	110.0
+Ford Mustang II	129.0
+Toyota Corolla	75.00
+Ford Pinto	83.00
+AMC Gremlin	100.0
+Pontiac Astro	78.00
+Toyota Corolla	96.00
+Volkswagen Dasher	71.00
+Datsun 710	97.00
+Ford Pinto	97.00
+Volkswagen Rabbit	70.00
+AMC Pacer	90.00
+Audi 100LS	95.00
+Peugeot 504	88.00
+Volvo 244DL	98.00
+Saab 99LE	115.0
+Honda Civic CVCC	53.00
+Fiat 131	86.00
+Opel 1900	81.00
+Capri ii	92.00
+Dodge Colt	79.00
+Renault 12tl	83.00
+Chevrolet Chevelle Malibu Classic	140.0
+Dodge Coronet Brougham	150.0
+AMC Matador	120.0
+Ford Gran Torino	152.0
+Plymouth Valiant	100.0
+Chevrolet Nova	105.0
+Ford Maverick	81.00
+AMC Hornet	90.00
+Chevrolet Chevette	52.00
+Chevrolet Woody	60.00
+Volkswagen Rabbit	70.00
+Honda Civic	53.00
+Dodge Aspen SE	100.0
+Ford Grenada ghia	78.00
+Pontiac Ventura SJ	110.0
+AMC Pacer d/l	95.00
+Volkswagen Rabbit	71.00
+Datsun B-210	70.00
+Toyota Corolla	75.00
+Ford Pinto	72.00
+Volvo 245	102.0
+Plymouth Volare Premier v8	150.0
+Peugeot 504	88.00
+Toyota Mark II	108.0
+Mercedes-Benz 280s	120.0
+Cadillac Seville	180.0
+Chevrolet C10	145.0
+Ford F108	130.0
+Dodge D100	150.0
+Honda Accord CVCC	68.00
+Buick Opel Isuzu Deluxe	80.00
+Renault 5 GTL	58.00
+Plymouth Arrow GS	96.00
+Datsun F-10 Hatchback	70.00
+Chevrolet Caprice Classic	145.0
+Oldsmobile Cutlass Supreme	110.0
+Dodge Monaco Brougham	145.0
+Mercury Cougar Brougham	130.0
+Chevrolet Concours	110.0
+Buick Skylark	105.0
+Plymouth Volare Custom	100.0
+Ford Grenada	98.00
+Pontiac Grand Prix LJ	180.0
+Chevrolet Monte Carlo Landau	170.0
+Chrysler Cordoba	190.0
+Ford Thunderbird	149.0
+Volkswagen Rabbit Custom	78.00
+Pontiac Sunbird Coupe	88.00
+Toyota Corolla Liftback	75.00
+Ford Mustang II 2+2	89.00
+Chevrolet Chevette	63.00
+Dodge Colt m/m	83.00
+Subaru DL	67.00
+Volkswagen Dasher	78.00
+Datsun 810	97.00
+BMW 320i	110.0
+Mazda RX-4	110.0
+Volkswagen Rabbit Custom Diesel	48.00
+Ford Fiesta	66.00
+Mazda GLC Deluxe	52.00
+Datsun B210 GX	70.00
+Honda Civic CVCC	60.00
+Oldsmobile Cutlass Salon Brougham	110.0
+Dodge Diplomat	140.0
+Mercury Monarch ghia	139.0
+Pontiac Phoenix LJ	105.0
+Chevrolet Malibu	95.00
+Ford Fairmont (auto)	85.00
+Ford Fairmont (man)	88.00
+Plymouth Volare	100.0
+AMC Concord	90.00
+Buick Century Special	105.0
+Mercury Zephyr	85.00
+Dodge Aspen	110.0
+AMC Concord d/l	120.0
+Chevrolet Monte Carlo Landau	145.0
+Buick Regal Sport Coupe (turbo)	165.0
+Ford Futura	139.0
+Dodge Magnum XE	140.0
+Chevrolet Chevette	68.00
+Toyota Corolla	95.00
+Datsun 510	97.00
+Dodge Omni	75.00
+Toyota Celica GT Liftback	95.00
+Plymouth Sapporo	105.0
+Oldsmobile Starfire SX	85.00
+Datsun 200-SX	97.00
+Audi 5000	103.0
+Volvo 264gl	125.0
+Saab 99gle	115.0
+Peugeot 604sl	133.0
+Volkswagen Scirocco	71.00
+Honda Accord LX	68.00
+Pontiac Lemans V6	115.0
+Mercury Zephyr 6	85.00
+Ford Fairmont 4	88.00
+AMC Concord DL 6	90.00
+Dodge Aspen 6	110.0
+Chevrolet Caprice Classic	130.0
+Ford LTD Landau	129.0
+Mercury Grand Marquis	138.0
+Dodge St. Regis	135.0
+Buick Estate Wagon (sw)	155.0
+Ford Country Squire (sw)	142.0
+Chevrolet Malibu Classic (sw)	125.0
+Chrysler Lebaron Town @ Country (sw)	150.0
+Volkswagen Rabbit Custom	71.00
+Mazda GLC Deluxe	65.00
+Dodge Colt Hatchback Custom	80.00
+AMC Spirit DL	80.00
+Mercedes Benz 300d	77.00
+Cadillac Eldorado	125.0
+Peugeot 504	71.00
+Oldsmobile Cutlass Salon Brougham	90.00
+Plymouth Horizon	70.00
+Plymouth Horizon TC3	70.00
+Datsun 210	65.00
+Fiat Strada Custom	69.00
+Buick Skylark Limited	90.00
+Chevrolet Citation	115.0
+Oldsmobile Omega Brougham	115.0
+Pontiac Phoenix	90.00
+Volkswagen Rabbit	76.00
+Toyota Corolla Tercel	60.00
+Chevrolet Chevette	70.00
+Datsun 310	65.00
+Chevrolet Citation	90.00
+Ford Fairmont	88.00
+AMC Concord	90.00
+Dodge Aspen	90.00
+Audi 4000	78.00
+Toyota Corolla Liftback	90.00
+Mazda 626	75.00
+Datsun 510 Hatchback	92.00
+Toyota Corolla	75.00
+Mazda GLC	65.00
+Dodge Colt	105.0
+Datsun 210	65.00
+Volkswagen Rabbit C (Diesel)	48.00
+Volkswagen Dasher (diesel)	48.00
+Audi 5000s (diesel)	67.00
+Mercedes-Benz 240d	67.00
+Honda Civic 1500 gl	67.00
+Renault Lecar Deluxe	0
+Subaru DL	67.00
+Volkswagen Rabbit	62.00
+Datsun 280-ZX	132.0
+Mazda RX-7 GS	100.0
+Triumph TR7 Coupe	88.00
+Ford Mustang Cobra	0
+Honda Accord	72.00
+Plymouth Reliant	84.00
+Buick Skylark	84.00
+Dodge Aries Wagon (sw)	92.00
+Chevrolet Citation	110.0
+Plymouth Reliant	84.00
+Toyota Starlet	58.00
+Plymouth Champ	64.00
+Honda Civic 1300	60.00
+Subaru	67.00
+Datsun 210 MPG	65.00
+Toyota Tercel	62.00
+Mazda GLC 4	68.00
+Plymouth Horizon 4	63.00
+Ford Escort 4W	65.00
+Ford Escort 2H	65.00
+Volkswagen Jetta	74.00
+Renault 18i	0
+Honda Prelude	75.00
+Toyota Corolla	75.00
+Datsun 200SX	100.0
+Mazda 626	74.00
+Peugeot 505s Turbo Diesel	80.00
+Saab 900s	110.0
+Volvo Diesel	76.00
+Toyota Cressida	116.0
+Datsun 810 Maxima	120.0
+Buick Century	110.0
+Oldsmobile Cutlass LS	105.0
+Ford Grenada gl	88.00
+Chrysler Lebaron Salon	85.00
+Chevrolet Cavalier	88.00
+Chevrolet Cavalier Wagon	88.00
+Chevrolet Cavalier 2-door	88.00
+Pontiac J2000 SE Hatchback	85.00
+Dodge Aries SE	84.00
+Pontiac Phoenix	90.00
+Ford Fairmont Futura	92.00
+AMC Concord DL	0
+Volkswagen Rabbit l	74.00
+Mazda GLC Custom l	68.00
+Mazda GLC Custom	68.00
+Plymouth Horizon Miser	63.00
+Mercury Lynx l	70.00
+Nissan Stanza XE	88.00
+Honda Accord	75.00
+Toyota Corolla	70.00
+Honda Civic	67.00
+Honda Civic (auto)	67.00
+Datsun 310 GX	67.00
+Buick Century Limited	110.0
+Oldsmobile Cutlass Ciera (diesel)	85.00
+Chrysler Lebaron Medallion	92.00
+Ford Grenada l	112.0
+Toyota Celica GT	96.00
+Dodge Charger 2.2	84.00
+Chevrolet Camaro	90.00
+Ford Mustang GL	86.00
+Volkswagen Pickup	52.00
+Dodge Rampage	84.00
+Ford Ranger	79.00
+Chevy S-10	82.00

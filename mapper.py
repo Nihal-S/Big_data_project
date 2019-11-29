@@ -14,8 +14,12 @@ f.close()
 schemas = schemas.split("\n")
 v = 0
 for i in schemas:
+    new_schema = []
     if(i.split(" ")[0] == sys.argv[2]):
-        schema = (i.split(" ")[1]).split(",")
+        schema = ((i.split(" ")[1]).split(","))
+        for x in schema:
+            new_schema.append(x.split(":")[0])
+        schema = new_schema
         #print(schema)
         for j in range(len(schema)):
             if(schema[j] in columns):

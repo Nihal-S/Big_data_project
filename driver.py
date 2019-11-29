@@ -44,6 +44,7 @@ if __name__=="__main__":
         dict_sch = dict()
         for i in schemas:
             dict_sch[i.split(" ")[0]] = i.split(" ")[1],i.split(" ")[2]
+        #print(dict_sch)
         for i in dict_sch: 
             if((inp[3].split("/")[0] == i) and (inp[3].split("/")[1] == dict_sch[i][1])):
                 #print(dict_sch[i][1])
@@ -89,7 +90,7 @@ if __name__=="__main__":
                     f.write(output)
                     f.close()
 
-            elif((inp[3].split("/")[0] != i) and (inp[3].split("/")[1] != dict_sch[i][1])):
+            elif((inp[3].split("/")[0] != i) and(inp[3].split("/")[1] != dict_sch[i][1])):
                 print("[ERROR]:- Database not found")
 
 
