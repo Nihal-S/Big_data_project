@@ -47,8 +47,8 @@ for line in sys.stdin:
             #print(selected)
             for i in selected:
                 list.append(float(i))
-print(list)
-print(sys.argv[3])
+#print(list)
+#print(sys.argv[3])
 
 if(sys.argv[3] == "min"):
     print(min(list))

@@ -1,14 +1,14 @@
-Opel Manta
-Chevrolet Vega
-Dodge Colt
-Fiat 128
-Fiat 124 TC
-Toyota Corolla
-Toyota Corolla
-Toyota Corolla Liftback
-Dodge Omni
-Mazda 626
-Toyota Corolla
-Honda Prelude
-Toyota Corolla
-Honda Accord
+Opel Manta						24						4						116						75						2158						15.5						73						Europe
+Chevrolet Vega						25						4						140						75						2542						17						74						US
+Dodge Colt						28						4						90						75						2125						14.5						74						US
+Fiat 128						24						4						90						75						2108						15.5						74						Europe
+Fiat 124 TC						26						4						116						75						2246						14						74						Europe
+Toyota Corolla						29						4						97						75						2171						16						75						Japan
+Toyota Corolla						28						4						97						75						2155						16.4						76						Japan
+Toyota Corolla Liftback						26						4						97						75						2265						18.2						77						Japan
+Dodge Omni						30.9						4						105						75						2230						14.5						78						US
+Mazda 626						31.3						4						120						75						2542						17.5						80						Japan
+Toyota Corolla						32.2						4						108						75						2265						15.2						80						Japan
+Honda Prelude						33.7						4						107						75						2210						14.4						81						Japan
+Toyota Corolla						32.4						4						108						75						2350						16.8						81						Japan
+Honda Accord						36						4						107						75						2205						14.5						82						Japan

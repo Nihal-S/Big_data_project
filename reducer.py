@@ -7,7 +7,8 @@ for line in sys.stdin:
     line  = line.strip()
     line = line.split("\t")
     #print(line[1])
-    #print(sys.argv[1])
+    #print(sys.argv)
+    #print(line)
     #print(len(sys.argv))
     if(sys.argv[2] == "1"):
         if(float(line[1]) == float(sys.argv[1])):

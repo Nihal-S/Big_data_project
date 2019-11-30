@@ -19,6 +19,7 @@ for i in schemas:
         schema = ((i.split(" ")[1]).split(","))
         for x in schema:
             new_schema.append(x.split(":")[0])
+        #print(new_schema)
         schema = new_schema
         #print(schema)
         for j in range(len(schema)):
@@ -28,7 +29,7 @@ for i in schemas:
                 v = j
             
 #fuel column index 8
-#print(l)
+#print(v)
 #l = [0,2,3]
 for line in infile:
     string = ""
