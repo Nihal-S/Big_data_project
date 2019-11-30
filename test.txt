@@ -1,0 +1,6 @@
+select * from cars/cars.csv where hp = 75;
+select car,mpg,hp from cars/cars.csv where hp > 75;
+select cnt(mpg) from cars/cars.csv where hp = 75;
+load cars/cars.csv as (cars:string,number:int);
+select car from cars/cars.csv where car = fordpinto;
+safadf

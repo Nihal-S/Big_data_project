@@ -19,7 +19,7 @@ for line in sys.stdin:
                 if(string == ""):
                     string = i
                 else:
-                    string = string + "\t\t\t\t\t\t" + i
+                    string = string + "\t" + i
             print(string + "")
     if(sys.argv[2] == "3"):
         if(float(line[1]) > float(sys.argv[1])):
@@ -30,7 +30,7 @@ for line in sys.stdin:
                 if(string == ""):
                     string = i
                 else:
-                    string = string + "\t\t\t\t\t\t" + i
+                    string = string + "\t" + i
             print(string + "")
     if(sys.argv[2] == "2"):
         if(float(line[1]) < float(sys.argv[1])):
@@ -41,7 +41,7 @@ for line in sys.stdin:
                 if(string == ""):
                     string = i
                 else:
-                    string = string + "\t\t\t\t\t\t" + i
+                    string = string + "\t" + i
             print(string + "")
     if(sys.argv[2] == "5"):
         if(float(line[1]) >= float(sys.argv[1])):
@@ -52,7 +52,7 @@ for line in sys.stdin:
                 if(string == ""):
                     string = i
                 else:
-                    string = string + "\t\t\t\t\t\t" + i
+                    string = string + "\t" + i
             print(string + "")
     if(sys.argv[2] == "4"):
         if(float(line[1]) <= float(sys.argv[1])):
@@ -63,5 +63,5 @@ for line in sys.stdin:
                 if(string == ""):
                     string = i
                 else:
-                    string = string + "\t\t\t\t\t\t" + i
+                    string = string + "\t" + i
             print(string + "")

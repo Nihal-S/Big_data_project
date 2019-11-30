@@ -137,7 +137,7 @@ Ford Maverick;21;6;200;0;2875;17;74;US
 AMC Hornet;19;6;232;100;2901;16;74;US
 Chevrolet Nova;15;6;250;100;3336;17;74;US
 Datsun B210;31;4;79;67;1950;19;74;Japan
-Fordpinto;26;4;122;80;2451;16.5;74;US
+fordpinto;26;4;122;80;2451;16.5;74;US
 Toyota Corolla 1200;32;4;71;65;1836;21;74;Japan
 Chevrolet Vega;25;4;140;75;2542;17;74;US
 Chevrolet Chevelle Malibu Classic;16;6;250;100;3781;17;74;US
