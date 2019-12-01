@@ -7,5 +7,3 @@ cars5 car:string,mpg:int,cylinders:int,displacement:int,hp:float,weight:float,ac
 cars6 car:string,mpg:int,cylinders:int,displacement:int,hp:float,weight:float,acceleration:float,model:float,origin:float cars.csv
 cars7 car:string,mpg:int,cylinders:int,displacement:int,hp:float,weight:float,acceleration:float,model:float,origin:float cars.csv
 cars8 car:string,mpg:int,cylinders:int,displacement:int,hp:float,weight:float,acceleration:float,model:float,origin:float cars.csv
-cars9 car:string,mpg:int,cylinders:int,displacement:int,hp:float,weight:float,acceleration:float,model:float,origin:float cars.csv
-cars10 car:string,mpg:int,cylinders:int,displacement:int,hp:float,weight:float,acceleration:float,model:float,origin:float cars.csv

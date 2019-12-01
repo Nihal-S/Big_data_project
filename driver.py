@@ -222,14 +222,18 @@ while(1):
                 if(del_schema not in dict_sch):
                     print("[ERROR]:-SCHEMA NOT FOUND")
 
-                for i in dict_sch:
-                    if(i != del_schema):
-                        if(count != (len(del_schema)+1)):
-                            f.write(i+" "+dict_sch[i][0]+" "+dict_sch[i][1]+"\n")
-                        else:
-                            f.write(i+" "+dict_sch[i][0]+" "+dict_sch[i][1])
+                else:
+                    for i in dict_sch:
+                        if(i != del_schema):
+                            print(count,len(dict_sch))
+                            if(count != (len(dict_sch)-2)):
+                                f.write(i+" "+dict_sch[i][0]+" "+dict_sch[i][1]+"\n")
+                            else:
+                                f.write(i+" "+dict_sch[i][0]+" "+dict_sch[i][1])
+                            count+=1
+                    print(del_schema+" DELETED")
+            
             #print(count,i)
-                    count+=1
 
                 f.close()
 
