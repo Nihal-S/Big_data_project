@@ -100,8 +100,12 @@ while(1):
                 for i in inp_for_headers:
                     list_headers.append(i)
 
+                var = len(dict_sch)
+
                 for i in dict_sch: 
+                    #print(i,var)
                     if((inp[3].split("/")[0] == i) and (inp[3].split("/")[1] == dict_sch[i][1])):
+                        var = 0
                         #print(dict_sch[i][1])
                         string = ""
                         count = 1
@@ -149,6 +153,7 @@ while(1):
                             res = os.popen("cat data/"+dict_sch[i][1]+" "+"|"+" "+"python3 mapper.py "+inp[1]+ " "+i+" "+inp[5] +" "+"|"+" "+"python3 reducer.py "+inp[-1][:-1] + " " + str(encoded))
                             output = res.read()
                             output_list = print_tabular(output)
+                            print(tabulate(output_list,headers=list_headers,tablefmt="grid"))
                             # print(output_list)
                             # print(list_headers)
                         elif(check_cloumn(string,inp[1][4:-1]) and inp[1][-1] == ")" and not check_string(inp[1][4:-1],dict_sch[i][0])):
@@ -157,17 +162,22 @@ while(1):
                             #res = os.popen("python3 mapper.py<data/"+dict_sch[i][1]+" "+inp[1][4:-1]+" "+i + " "+inp[5])
                             output = res.read()
                             output_list = print_tabular(output)
+                            print(tabulate(output_list,headers=list_headers,tablefmt="grid"))
                             #print(tuple(output.split("\t")))
                         elif(inp[-2] == "=" and check_string(inp[5],dict_sch[i][0])):
                             res = os.popen("cat data/"+dict_sch[i][1]+" "+"|"+" "+"python3 mapper.py "+inp[1]+ " "+i+" "+inp[5] +" "+"|"+" "+"python3 reducer2.py "+inp[-1][:-1] + " " + str(encoded))
                             output = res.read()
                             output_list = print_tabular(output)                            
+                            print(tabulate(output_list,headers=list_headers,tablefmt="grid"))
 
                         else:
                             print("[ERROR]:-INVALID AGGREGATE FUNCTION OPERATION.")
 
-                        print(tabulate(output_list,headers=list_headers,tablefmt="grid"))
 
+                    elif((inp[3].split("/")[0] != i) and(inp[3].split("/")[1] != dict_sch[i][1]) and var == 1):
+                        print("[ERROR]:- Database not found")
+                    var -= 1
+                    #print(var)
                         #print(output_list)
                         #print(list_headers)                        
                         #f = open('output_map.txt', 'w')
@@ -201,10 +211,6 @@ while(1):
                         #     f.close()
 
 
-                    elif((inp[3].split("/")[0] != i) and(inp[3].split("/")[1] != dict_sch[i][1])):
-                        print("[ERROR]:- Database not found")
-
-
             if(inp[0] == "delete" and inp[-1][-1] == ";"):
                 f = open("schema.txt",'r')
                 schemas = f.read()
@@ -217,12 +223,12 @@ while(1):
                     dict_sch[i.split(" ")[0]] = [i.split(" ")[1],i.split(" ")[2]]
         #print(schemas)
         #print(dict_sch)
-                f = open("schema.txt","w")
                 count = 0
                 if(del_schema not in dict_sch):
                     print("[ERROR]:-SCHEMA NOT FOUND")
 
                 else:
+                    f = open("schema.txt","w")
                     for i in dict_sch:
                         if(i != del_schema):
                             print(count,len(dict_sch))
@@ -232,10 +238,9 @@ while(1):
                                 f.write(i+" "+dict_sch[i][0]+" "+dict_sch[i][1])
                             count+=1
                     print(del_schema+" DELETED")
+                    f.close()
             
             #print(count,i)
-
-                f.close()
 
     except Exception:
         print("[ERROR]:-UNUSUAL OPERATION")

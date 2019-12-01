@@ -35,7 +35,7 @@ for line in infile:
     string = ""
     if(start == 0):
         line = line.strip()
-        list = line.split(';')
+        list = line.split(',')
         #print(list)
         for j in range(len(list)):
             if(j in l):
